@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurentFileReader", "ConcurentFileReader\ConcurentFileReader.csproj", "{80A24496-82FC-4CC5-A846-979BAA9DFFB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spammer", "Spammer\Spammer.csproj", "{7DE957B4-DB28-4B09-9082-1EA5C724F81C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutputChecker", "OutputChecker\OutputChecker.csproj", "{47956F6F-3899-44F8-B824-093E888DB469}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80A24496-82FC-4CC5-A846-979BAA9DFFB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A24496-82FC-4CC5-A846-979BAA9DFFB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A24496-82FC-4CC5-A846-979BAA9DFFB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A24496-82FC-4CC5-A846-979BAA9DFFB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DE957B4-DB28-4B09-9082-1EA5C724F81C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE957B4-DB28-4B09-9082-1EA5C724F81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE957B4-DB28-4B09-9082-1EA5C724F81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE957B4-DB28-4B09-9082-1EA5C724F81C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47956F6F-3899-44F8-B824-093E888DB469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47956F6F-3899-44F8-B824-093E888DB469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47956F6F-3899-44F8-B824-093E888DB469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47956F6F-3899-44F8-B824-093E888DB469}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
